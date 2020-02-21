@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of lib
+ */
+export * from './lib/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1pY29uLXBpY2tlci8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLGFBQWEsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbGliXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvaW5kZXgnO1xuIl19

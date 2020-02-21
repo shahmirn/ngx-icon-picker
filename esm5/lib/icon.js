@@ -1,0 +1,13 @@
+var Icon = /** @class */ (function () {
+    function Icon() {
+    }
+    return Icon;
+}());
+export { Icon };
+export var IconType;
+(function (IconType) {
+    IconType[IconType["FONT_AWESEOME"] = 0] = "FONT_AWESEOME";
+    IconType[IconType["BOOTSTRAP"] = 1] = "BOOTSTRAP";
+    IconType[IconType["FONT_AWESEOME5"] = 2] = "FONT_AWESEOME5";
+})(IconType || (IconType = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaWNvbi5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1pY29uLXBpY2tlci8iLCJzb3VyY2VzIjpbImxpYi9pY29uLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQUE7SUFNQSxDQUFDO0lBQUQsV0FBQztBQUFELENBQUMsQUFORCxJQU1DOztBQUVELE1BQU0sQ0FBTixJQUFZLFFBSVg7QUFKRCxXQUFZLFFBQVE7SUFDbEIseURBQWEsQ0FBQTtJQUNiLGlEQUFTLENBQUE7SUFDVCwyREFBYyxDQUFBO0FBQ2hCLENBQUMsRUFKVyxRQUFRLEtBQVIsUUFBUSxRQUluQiIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBJY29uIHtcbiAgbmFtZTogc3RyaW5nO1xuICBpZDogc3RyaW5nO1xuICBmaWx0ZXI/OiBzdHJpbmdbXTtcbiAgYWxpYXNlcz86IHN0cmluZ1tdO1xuICB0eXBlPzogSWNvblR5cGU7XG59XG5cbmV4cG9ydCBlbnVtIEljb25UeXBlIHtcbiAgRk9OVF9BV0VTRU9NRSxcbiAgQk9PVFNUUkFQLFxuICBGT05UX0FXRVNFT01FNVxufVxuIl19
